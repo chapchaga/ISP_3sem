@@ -1,0 +1,15 @@
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/bin/Debug/net10.0/LR3
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/bin/Debug/net10.0/LR3.deps.json
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/bin/Debug/net10.0/LR3.runtimeconfig.json
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/bin/Debug/net10.0/LR3.dll
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/bin/Debug/net10.0/LR3.pdb
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.AssemblyInfo.cs
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.sourcelink.json
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.dll
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/refint/LR3.dll
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.pdb
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/LR3.genruntimeconfig.cache
+/Users/yaroslav/Desktop/BSUIR/ISP/LR3/obj/Debug/net10.0/ref/LR3.dll
